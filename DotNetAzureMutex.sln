@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosMutex", "CosmosMutex\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{0345E2C5-EAF4-49AB-8DDE-0CEF13B79A41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosMutex.Tests", "CosmosMutex.Tests\CosmosMutex.Tests.csproj", "{DC15859D-B043-4CC6-A1E6-EBF3BBAB309C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,5 +43,17 @@ Global
 		{0345E2C5-EAF4-49AB-8DDE-0CEF13B79A41}.Release|x64.Build.0 = Release|Any CPU
 		{0345E2C5-EAF4-49AB-8DDE-0CEF13B79A41}.Release|x86.ActiveCfg = Release|Any CPU
 		{0345E2C5-EAF4-49AB-8DDE-0CEF13B79A41}.Release|x86.Build.0 = Release|Any CPU
+		{DC15859D-B043-4CC6-A1E6-EBF3BBAB309C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC15859D-B043-4CC6-A1E6-EBF3BBAB309C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC15859D-B043-4CC6-A1E6-EBF3BBAB309C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DC15859D-B043-4CC6-A1E6-EBF3BBAB309C}.Debug|x64.Build.0 = Debug|Any CPU
+		{DC15859D-B043-4CC6-A1E6-EBF3BBAB309C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DC15859D-B043-4CC6-A1E6-EBF3BBAB309C}.Debug|x86.Build.0 = Debug|Any CPU
+		{DC15859D-B043-4CC6-A1E6-EBF3BBAB309C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC15859D-B043-4CC6-A1E6-EBF3BBAB309C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC15859D-B043-4CC6-A1E6-EBF3BBAB309C}.Release|x64.ActiveCfg = Release|Any CPU
+		{DC15859D-B043-4CC6-A1E6-EBF3BBAB309C}.Release|x64.Build.0 = Release|Any CPU
+		{DC15859D-B043-4CC6-A1E6-EBF3BBAB309C}.Release|x86.ActiveCfg = Release|Any CPU
+		{DC15859D-B043-4CC6-A1E6-EBF3BBAB309C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
